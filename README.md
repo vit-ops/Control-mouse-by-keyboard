@@ -2,6 +2,11 @@
 
 Control your mouse using only the keyboard. A lightweight Python desktop application with a modern UI, global hotkeys, smooth acceleration, and automatic EXE generation.
 
+## 📷 Application Preview
+
+![MouseArrow Pro Interface](./app.png)
+
+
 # 🚀 Features
 
 Toggle mouse control with F9
